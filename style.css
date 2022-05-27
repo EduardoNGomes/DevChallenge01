@@ -207,6 +207,12 @@ main .text button{
     font-size: 1.2rem;
   }
 
+  main .text p {
+    display: inline-block;
+    font-size: 1.3rem;
+    width: 300px;
+  }
+
   main .text button{
     width: 40%;
     padding: 1rem;
@@ -236,11 +242,7 @@ main .text button{
     font-size: 1.6rem;
   }
 
-  main .text p {
-    display: inline-block;
-    font-size: 1.3rem;
-    width: 300px;
-  }
+
 
 }
 
